@@ -29,8 +29,9 @@ Face attendance system using face recognition with Python !
 In Windows, you will need to do a couple of additional steps before starting with this tutorial:
 - Follow the instructions described in this video https://www.youtube.com/watch?v=oTv7HB6CRpQ
 - Install the packages in requirements_windows.txt.
+- pip install cmake
 - pip install dlib==19.24.1 opencv-python==4.7.0.72 numpy==1.24.3(anaconda cmd)
-- 
+  
 
 ### linux, mac
 
